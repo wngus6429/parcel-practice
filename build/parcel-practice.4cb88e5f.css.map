@@ -1,0 +1,1 @@
+{"version":3,"sources":["src\\styles.scss"],"names":[],"mappings":"AAEA,kCACE,WADF,6BACE,WADF,2BACE,WADF,sBACE,WADF,yBACE","file":"parcel-practice.4cb88e5f.css","sourceRoot":"..","sourcesContent":["/** @format */\r\n\r\n.title:fullscreen {\r\n  color: blue;\r\n}\r\n"]}
